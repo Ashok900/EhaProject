@@ -11,7 +11,7 @@ public class EhaEnterpriseApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EhaEnterpriseApplication.class, args);
 		System.out.println("<---------- ------------ BOOOOTED ----------------- ------------>");
-               System.out.println("<---------- ------------ BOOOOTED ----------------- ------------>");
+               System.out.println("<---------- ------------ RESTART ----------------- ------------>");
 
 	}
 
